@@ -1,1 +1,1 @@
-name: "afshin"----family: "khaffajeh"----major: "physics"----love: "mehrnoosh"
+name: "afshin"----family: "khaffajeh"----major: "physics"----love: "mehrnoosh"----job:"frontend developer"
